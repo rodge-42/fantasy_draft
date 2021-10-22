@@ -1,0 +1,17 @@
+# url = 'https://users.premierleague.com/accounts/login/'
+# draft_payload = {
+# 'login': creds['credentials']['username'],
+# 'password': creds['credentials']['password'], 
+# 'redirect_uri': 'https://draft.premierleague.com/a/login',
+# 'app': 'plfpl-web'
+# }
+
+# fanto_payload = {
+# 'login': creds['credentials']['username'],
+# 'password': creds['credentials']['password'], 
+# 'redirect_uri': 'https://fantasy.premierleague.com/a/login',
+# 'app': 'plfpl-web'
+# }
+# draft_session.post(url, data=draft_payload)
+# fanto_session.post(url, data=fanto_payload)
+
